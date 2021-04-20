@@ -1,0 +1,13 @@
+name: lbb-student-performance
+title: lbb-student-performance
+username:
+account: maalghozi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3929319
+bundleId: 4446489
+url: https://maalghozi.shinyapps.io/lbb-student-performance/
+when: 1617888253.47393
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: lbb-dataviz-ghozi.Rmd|lbb-ip-markdown.Rmd|theme_algoritma.rds
